@@ -1,0 +1,3 @@
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+-When working w/ multiple people, not everyone will be using best practices. Some people might commit huge changes all at once. Whereas automatically saving VC software like Google Docs ensures that saves/commits are made in small chunks of time, regardless of how useful they might be.
