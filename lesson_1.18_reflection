@@ -1,0 +1,5 @@
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git allows you to save multiple files in one commit in order to keep the amount of commits listed smaller, and more easily navigable. Also, grouping commits indicates which files were effected by just one change. 
+
+In Google Docs, automatic saving makes it impossible to indicate what files were changed, and most of the time you would likely only be working on one file, not many, since they are only suite files (docs, spreadsheets, slidshows)

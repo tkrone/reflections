@@ -1,0 +1,3 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: Initiating a repository turns your directory (which may or may not contain files) into a repository. This creates a hidden .git folder in the repository. Also, remember that git doesn't create a commit when your create your repository.

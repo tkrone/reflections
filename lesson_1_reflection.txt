@@ -1,0 +1,4 @@
+Using the File Compare (Windows) command prompt tool can be really useful if
+
+- After adding new code to a file, there is a problem. Then I can compare the two to see what mistake was made.
+- Comparing two files of different versions that are really large to see what has changed.
